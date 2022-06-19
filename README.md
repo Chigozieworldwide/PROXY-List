@@ -1,5 +1,5 @@
 
-# PROXY-LIST/USER-AGENTS
+#PROXY-LIST/USER-AGENT
 
 A list of Free, Scrapped Public Proxies. UPDATED REGULARLY !!!  
 
