@@ -1,6 +1,6 @@
 
 # PROXY-LISTS
-
+# CYTHON-FAMILY
 A list of Free, Scrapped Public Proxies. UPDATED REGULARLY !!!  
 
 Last Updated: `Saturday 18-06-2022 22:20:58 UTC`  
@@ -18,9 +18,9 @@ Total Proxies: `5188`
 
 ### For HTTP(S)
 
-```curl https://raw.githubusercontent.com/Chigozieworldwide/PROXY-List/master/http.txt.txt -o http.txt```
+```curl https://raw.githubusercontent.com/Chigozieworldwide/PROXY-List/main/http.txt -o http.txt```
 
-## NOTES
+## TAKE NOTES
 
 It is Only For Educational Purposes. Neither I Say Nor I Promote To Do Anything Illegal.
 
