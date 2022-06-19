@@ -10,15 +10,15 @@ Total Proxies: `5188`
 
 ### For SOCKS5
 
-```curl https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks5.txt -o socks5.txt```
+```curl https://raw.githubusercontent.com/Chigozieworldwide/PROXY-List/master/socks5.txt -o socks5.txt```
 
 ### For SOCKS4
 
-```curl https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks4.txt -o socks4.txt```
+```curl https://raw.githubusercontent.com/Chigozieworldwide/PROXY-List/master/socks4.txt -o socks4.txt```
 
 ### For HTTP(S)
 
-```curl https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt -o http.txt```
+```curl https://raw.githubusercontent.com/Chigozieworldwide/PROXY-List/master/http.txt.txt -o http.txt```
 
 ## NOTES
 
