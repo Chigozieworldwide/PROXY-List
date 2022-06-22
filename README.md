@@ -31,4 +31,4 @@ You can Also Use My Tool [SOCKER](https://github.com/Chigozieworldwide/Proxy) To
 ## CONTACT
 
  For Any Queries:  
-        Ping Me : [Telegram](http://t.me/CHIGOZIEWORLDWIDE)
+        Ping Me : [Telegram](http://t.me/CHIG0ZIEWORLDWIDE)
