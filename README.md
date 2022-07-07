@@ -3,7 +3,7 @@
 # CYTHON-FAMILY
 A list of Free, Scrapped Public Proxies. UPDATED REGULARLY !!!  
 
-Last Updated: `Wednesday 29-06-2022 11:15:00 PM`  
+Last Updated: `Thursday 7-07-2022 8:45:00 AM`  
 Total Proxies: `10000` All Countries  
 
 ## DOWNLOAD
